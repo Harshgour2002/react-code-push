@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CodePushDemo</string>
+    <string name="CodePushDeploymentKey">nwWQMneIFMnsJu0vYwfObb5-QaNfNJnhfEgn4g</string>
+    <string name="CodePushServerUrl">https://limitedly-hysterogenic-carla.ngrok-free.dev/</string>
 </resources>
